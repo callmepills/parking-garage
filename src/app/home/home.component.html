@@ -1,7 +1,18 @@
 <div class="container">
-  <div class="jumbotron">
-    <h1 class="display-3">Parking Garage</h1>
-    <p class="lead">Park outstanding questions during your next meeting or presentation.</p>
-    <a class="btn btn-primary btn-lg" href="#">Get Started</a>
+  <div class="row">
+    <div class="col-12 mt-5 text-center">
+      <h1 class="display-3">Parking Garage</h1>
+      <p class="lead">Park outstanding questions during your next meeting or presentation.</p>
+    </div>
+  </div>
+  <div class="row">
+    <div class="offset-3 col-6 text-center">
+      <form>
+        <div class="form-group">
+          <input type="text" name="garage" class="form-control" placeholder="Enter garage name" [(ngModel)]="garage">
+        </div>
+        <button type="submit" class="btn btn-primary btn-lg" [routerLink]="['/garages', garage]">Get Started</button>
+      </form>
+    </div>
   </div>
 </div>
