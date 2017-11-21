@@ -1,41 +1,21 @@
 <div class="container">
   <div class="row">
-    <h1 class="display-3 text-center mb-3 col-12">{{id}}</h1>
+    <h1 class="display-3 text-center mb-3 col-12">{{name}}</h1>
   </div>
 
   <div class="row">
-
     <div class="card text-white bg-primary mb-3 offset-3 col-6">
       <div class="card-body">
-        <form>
-          <textarea class="form-control" rows="3" placeholder="I'm wondering about..."></textarea>
+        <form #f="ngForm" (ngSubmit)="addQuestion(f)">
+          <input type="text" name="question" class="form-control form-control-lg" placeholder="I'm wondering about..."
+                 ngModel>
         </form>
       </div>
     </div>
-
-    <div class="card mb-3 offset-3 col-6">
+    <div class="card mb-3 offset-3 col-6" *ngFor="let question of questions">
       <div class="card-body">
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        {{question.text}}
       </div>
     </div>
-
-    <div class="card mb-3 offset-3 col-6">
-      <div class="card-body">
-        Aliquam egestas, est eu viverra fringilla, erat enim euismod orci, non imperdiet sapien turpis tincidunt quam.
-      </div>
-    </div>
-
-    <div class="card mb-3 offset-3 col-6">
-      <div class="card-body">
-        Vestibulum consectetur orci id massa suscipit fringilla.
-      </div>
-    </div>
-
-    <div class="card mb-3 offset-3 col-6">
-      <div class="card-body">
-        Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; In maximus leo elit, nec scelerisque nisl laoreet ultrices.
-      </div>
-    </div>
-
   </div>
 </div>

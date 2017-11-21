@@ -5,7 +5,7 @@ import {GarageComponent} from './garage/garage.component';
 
 const routes: Routes = [
   {path: '', component: HomeComponent},
-  {path: 'garages/:id', component: GarageComponent}
+  {path: 'garages/:name', component: GarageComponent}
 ];
 
 @NgModule({
