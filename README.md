@@ -1,5 +1,7 @@
 # parking-garage
 
+[![Build Status](https://travis-ci.org/callmepills/parking-garage.svg?branch=master)](https://travis-ci.org/callmepills/parking-garage)
+
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam ut mi congue nibh iaculis feugiat nec nec turpis. Aenean vulputate purus turpis, at ultrices nisl sollicitudin sed. Praesent augue magna, elementum in nunc efficitur, scelerisque porta nunc. In fermentum orci quis leo commodo dignissim. Etiam vel sagittis ligula, ut elementum nisi. Integer gravida luctus tempor. Aenean nec auctor tortor. Sed non elementum quam, vel mollis metus. Nullam rutrum elit sit amet leo eleifend gravida. Curabitur nec odio libero. Vestibulum quis pretium lacus. Nulla pretium, sem et posuere sollicitudin, ex odio facilisis nunc, id euismod lectus ipsum et tellus.
 
 Suspendisse vulputate, augue in semper luctus, tortor nunc mattis nisl, sed blandit arcu mi id purus. Nunc neque leo, auctor id ullamcorper at, hendrerit at leo. Proin vulputate, sapien eu vehicula fringilla, ante tellus tristique nulla, nec feugiat libero mauris ut sapien. Morbi ornare arcu non massa auctor, non imperdiet purus elementum. Donec suscipit mauris in ipsum maximus ultricies id in ante. Praesent interdum odio sed elit sodales, ut interdum risus dapibus. Donec nibh elit, ultrices eget metus at, laoreet congue lectus. Duis vehicula gravida risus, at pharetra nibh mattis dapibus.

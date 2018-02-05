@@ -18,8 +18,8 @@ const QUESTIONS: Array<Question> = [
   styleUrls: ['./garage.component.scss']
 })
 export class GarageComponent implements OnInit {
-  private name: string;
-  private questions: Array<Question>;
+  name: string;
+  questions: Array<Question>;
 
   constructor(private route: ActivatedRoute) {
   }
