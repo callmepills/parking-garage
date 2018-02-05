@@ -2,6 +2,9 @@
   "name": "parking-garage",
   "version": "0.0.0",
   "license": "MIT",
+  "engines": {
+    "node": "8.9.4"
+  },
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
