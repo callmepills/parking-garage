@@ -1,0 +1,15 @@
+language: node_js
+node_js:
+  - "node"
+install:
+  - npm install
+script:
+  - npm run lint
+  - npm test -- --browser=PhantomJS --single-run
+deploy:
+  provider: heroku
+  api_key:
+    secure: kBYaj+0C4e0Qbk1VVV2xX2ovVshDoslWsz4rgM2sx4ypEe21x/sXvYhXF+3Fr7Sl3oR37Nfa6ZSh4aXvessQh/oDhHzbXG4ozZv9RRqWiyX+uEO3BGp1TzOgVirwOx4UuZSJH77uAeDd/3i7HI/Z3QQ6TCoF8U3+bRDSstQCVmwN3dMjA+iw2xkOLh+WVSh1lz77tMa2MxirWmtA0/+Hh6kTaZD8On9+42yT1zPTo/TezKlUiQg0zLHKFFupMA4Jxu8URF29EEHv934KVAnhrRyNbJQWhknSuSf/eJiOcX8zBlgXG1Aa1TT/JJeMlL7IWp/v+s/7S8AZKtT1toOH5K9XSZB5jR+oEJgv3cyIBW+sOGtVIObhesVr2Sxm6EUzU0cPIAmMp2IBBN4GXJVFO4bV+yJq59iprvBjKU5rbCut+z/LqcZ0KFJwC1EM6oobf59qdn2gHiUwNCLYLTBZu+7drdtqcKy7lZqOBIaABbA409dDoRbcNTnt2vTHbWAVJ86V6Ym4R8gF+qUhu6a+Up2QcmrM5DAfwZ7Bn2Qd7IzWAd+ZoS5N7Q/IxOs7YE8wgBXW/JLhjPkM7HjUbJZSHx6Lp6g1qwK7yvALaP6ExbI5Ll8ISyD0bI/BAPUUPhYLpP3tyaJuErPmG4zcwX/94mui/pRVzTQIEdHohEd6vng=
+  app: parkinggarage
+  on:
+    repo: callmepills/parking-garage
