@@ -1,27 +1,11 @@
-# ParkingGarage
+# parking-garage
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.5.3.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam ut mi congue nibh iaculis feugiat nec nec turpis. Aenean vulputate purus turpis, at ultrices nisl sollicitudin sed. Praesent augue magna, elementum in nunc efficitur, scelerisque porta nunc. In fermentum orci quis leo commodo dignissim. Etiam vel sagittis ligula, ut elementum nisi. Integer gravida luctus tempor. Aenean nec auctor tortor. Sed non elementum quam, vel mollis metus. Nullam rutrum elit sit amet leo eleifend gravida. Curabitur nec odio libero. Vestibulum quis pretium lacus. Nulla pretium, sem et posuere sollicitudin, ex odio facilisis nunc, id euismod lectus ipsum et tellus.
 
-## Development server
+Suspendisse vulputate, augue in semper luctus, tortor nunc mattis nisl, sed blandit arcu mi id purus. Nunc neque leo, auctor id ullamcorper at, hendrerit at leo. Proin vulputate, sapien eu vehicula fringilla, ante tellus tristique nulla, nec feugiat libero mauris ut sapien. Morbi ornare arcu non massa auctor, non imperdiet purus elementum. Donec suscipit mauris in ipsum maximus ultricies id in ante. Praesent interdum odio sed elit sodales, ut interdum risus dapibus. Donec nibh elit, ultrices eget metus at, laoreet congue lectus. Duis vehicula gravida risus, at pharetra nibh mattis dapibus.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+Ut lacus dolor, condimentum eu tempor a, sodales sit amet quam. Nam in faucibus ligula, id sagittis eros. Nullam sollicitudin cursus dui vel cursus. Sed sodales odio et nunc porta, nec viverra ex posuere. Aliquam mattis, quam nec porttitor pellentesque, orci diam interdum ante, sed hendrerit augue felis a ipsum. Suspendisse in auctor est. Fusce quis scelerisque velit. Phasellus vel dignissim ligula. Morbi volutpat, erat ac congue commodo, ex est fermentum ipsum, quis hendrerit tortor urna nec est. Pellentesque convallis, ipsum in finibus blandit, nunc leo ultrices ligula, ut congue ligula nisi mollis orci. Aenean sit amet massa felis. Curabitur nisl ante, ullamcorper at neque lobortis, facilisis viverra dolor.
 
-## Code scaffolding
+Aliquam et sapien dolor. In pretium tristique orci eget dapibus. Nunc id dui diam. Phasellus volutpat fermentum fringilla. Duis tincidunt porta tristique. Donec fermentum nunc vel elit consectetur dignissim. Suspendisse imperdiet auctor tortor non rhoncus. Pellentesque vitae pulvinar libero. Morbi quam sapien, aliquet eu eros vitae, volutpat pellentesque quam. Praesent rutrum pharetra blandit. Maecenas tempor, ligula quis pellentesque pharetra, erat nulla molestie nibh, consequat elementum libero ligula et erat. Aenean in hendrerit felis, sit amet pulvinar dolor. Donec et molestie mauris.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `-prod` flag for a production build.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+Donec rutrum ultricies enim, at ultrices purus rhoncus vel. Nulla eget lectus quis arcu vestibulum efficitur a ut mauris. Nullam ut egestas justo. Donec leo lacus, mattis eu iaculis vitae, vehicula non purus. Curabitur sit amet scelerisque dolor, quis egestas urna. Nunc eget iaculis libero, sit amet consectetur justo. Etiam pellentesque lectus eu ante accumsan sollicitudin. Mauris non dolor pellentesque, ultrices metus accumsan, mollis ipsum. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nulla mattis dui non tortor consectetur, et posuere sapien eleifend.
